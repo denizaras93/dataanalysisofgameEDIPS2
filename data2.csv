@@ -1,0 +1,61 @@
+Player,Phase,Decision Type,Approach,Earning
+Dinyesh SP,Phase 1,Logical,1,8
+Dinyesh SP,Phase 2,Logical,1,2
+Dinyesh SP,Phase 3,Logical,1,10
+Dinyesh SP,Phase 4,Logical,1,42
+Dinyesh SP,Phase 5,Logical,1,57
+Dinyesh SP,Phase 6,Logical,1,166
+Shetty PSS,Phase 1,Logical,1,12
+Shetty PSS,Phase 2,Logical,1,8
+Shetty PSS,Phase 3,Instinct,0,20
+Shetty PSS,Phase 4,Logical,1,36
+Shetty PSS,Phase 5,Logical,1,50
+Shetty PSS,Phase 6,Logical,1,107
+Vaja Muhammet PP,Phase 1,Logical,1,14
+Vaja Muhammet PP,Phase 2,Logical,1,10
+Vaja Muhammet PP,Phase 3,Logical,1,15
+Vaja Muhammet PP,Phase 4,Logical,1,25
+Vaja Muhammet PP,Phase 5,Logical,1,23
+Vaja Muhammet PP,Phase 6,Logical,1,65
+LURYEM SP,Phase 1,Logical,1,8
+LURYEM,Phase 2,Logical,1,5
+LURYEM,Phase 3,Logical,1,0
+LURYEM,Phase 4,Logical,1,70
+LURYEM,Phase 5,Logical,1,39
+LURYEM,Phase 6,Logical,1,72
+yaz pp,Phase 1,Instinct,0,3
+yaz,Phase 2,Instinct,0,13
+yaz,Phase 3,Instinct,0,9
+yaz,Phase 4,Instinct,0,23
+yaz,Phase 5,Instinct,0,11
+yaz,Phase 6,Instinct,0,21
+Anish sam SP,Phase 1,Logical,1,19
+Anish sam,Phase 2,Logical,1,28
+Anish sam,Phase 3,Logical,1,39
+Anish sam,Phase 4,Logical,1,45
+Anish sam,Phase 5,Logical,1,54
+Anish sam,Phase 6,Logical,1,152
+Shakar PP,Phase 1,Logical,1,25
+Shakar,Phase 2,Logical,1,23
+Shakar,Phase 3,Logical,1,31
+Shakar,Phase 4,Logical,1,40
+Shakar,Phase 5,Logical,1,46
+Shakar,Phase 6,Logical,1,150
+Elton SP,Phase 1,Logical,1,9
+Elton SP,Phase 2,Logical,1,16
+Elton SP,Phase 3,Logical,1,25
+Elton SP,Phase 4,Logical,1,45
+Elton SP,Phase 5,Logical,1,46
+Elton SP,Phase 6,Logical,1,77
+LUCIA PP,Phase 1,Logical,1,15
+LUCIA PP,Phase 2,Logical,1,32
+LUCIA PP,Phase 3,Logical,1,43
+LUCIA PP,Phase 4,Logical,1,65
+LUCIA PP,Phase 5,Logical,1,72
+LUCIA PP,Phase 6,Logical,1,100
+Rushil pss,Phase 1,Logical,1,16
+Rushil pss,Phase 2,Logical,1,32
+Rushil pss,Phase 3,Logical,1,65
+Rushil pss,Phase 4,Logical,1,85
+Rushil pss,Phase 5,Logical,1,110
+Rushil pss,Phase 6,Logical,1,139
